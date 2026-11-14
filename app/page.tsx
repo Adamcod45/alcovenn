@@ -1,8 +1,9 @@
-import Alcove from './Alcove'
+
+import Bah from "./Alcvery"
 
 export default function Home() {
   return (
 
-    <Alcove />
+    <Bah />
   )
 }
