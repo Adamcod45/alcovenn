@@ -793,7 +793,7 @@ function Reader({ book, chapter, onBack }: { book: Book; chapter: number; onBack
               <div style={S.coverName}>{book.name}</div>
               <div style={S.ornament} />
               <div style={S.coverCh}>Chapter {chapter}</div>
-              <div style={S.coverSub}>{coverOf(book.id).group} · King James Version</div>
+              <div style={S.coverSub}>{coverOf(book.id).group} · King James Version 2 dbgdgdgddhd</div>
             </FlipPage>
 
             {verses.map((text, i) => (
